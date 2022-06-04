@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.alineacionv{
+    vertical-align: middle;
+}
+span{
+    font-weight: bold;
+    margin-left: 10px;
+}
